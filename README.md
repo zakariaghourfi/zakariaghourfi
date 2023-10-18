@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a junior developer and IT specialist with a pa
 
 ## 💼 Experience
 
-- 💼 Trainee in digital infrastructure with a specialization in systems and networks - [Cité des métiers et des compétences Laayoune Sakia El Hamra]
+- 💼 Trainee in digital infrastructure with a specialization in systems and networks - [Cité des métiers et des compétences Laayoune Sakia El Hamra](https://cmc.ac.ma/)
 
 ## 🚀 My Skills
 
